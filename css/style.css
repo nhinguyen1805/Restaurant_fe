@@ -1,0 +1,159 @@
+.a_tin_tuc{
+	font-family: inherit;
+	font-size: 18px;
+	font-weight: bold;
+	color: black;
+	text-decoration: none;
+}
+
+.li_tintuc1{
+	list-style-type: none;
+	float: left;
+	width: 500px;
+	padding-right: 100px;
+}
+
+.li_tintuc2{
+	list-style-type: none;
+	float: left;
+	width: 500px;
+	padding-right: 100px;
+}
+
+.nd_tintuc{
+	float: right;
+    width: 230px;
+    text-align: justify;
+}
+
+.xem_them{
+	border: solid 1px red;
+    border-radius: 15px;
+    padding: 5px;
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+    background: red;
+}
+
+.div_xem_them{
+	border: dashed 1px red;
+    border-radius: 30px;
+    width: 97px;
+    padding: 10px 5px;
+}
+
+.footer{
+	background: url(../images/3.png);
+	position: relative;
+	height: 330px;
+    background-repeat: no-repeat;
+    margin-top: 60px;
+}
+
+.ul_footer{
+	position: absolute;
+	float: left;
+	margin: 100px 100px;
+    margin-top: 50px;
+}
+
+.ve_chung_toi{
+	list-style-type: none;
+	float: left;
+}
+
+.footer_p1{
+	color: white;
+    font-family: Arial;
+}
+
+.nd_ftp1{
+	color: white;
+    font-family: Arial;
+    width: 300px;
+    text-align: justify;
+}
+
+.ul_icon_ft{
+	padding-left: 0px;
+}
+
+.li_icon_ft{
+	list-style-type: none;
+    color: white;
+    float: left;
+    padding: 10px;
+    border: solid 1px;
+    padding-right: 11px;
+    margin-right: 10px;
+}
+
+.quick_links{
+	float: left;
+    padding-left: 150px;
+    padding-right: 200px;
+    padding-top: 12px;
+    list-style-type: none;
+    color: white;
+    font-family: Arial;
+}
+
+.li_quick_link{
+	list-style-type: none;
+	color: white;
+	padding-bottom: 20px;
+}
+
+.ul_quick_link{
+	padding-left: 0px;
+    padding-top: 10px;
+    font-family: Arial;
+    color: white;
+}
+
+.a_quick_link{
+	font-family: Arial;
+	color: white;
+}
+
+.lien_he{
+	float: left;
+    list-style-type: none;
+    font-family: Arial;
+    color: white;
+    padding-top: 10px;
+}
+
+.ul_lien_he{
+	list-style-type: none;
+    padding-left: 1px;
+    padding-top: 20px;
+}
+
+.li_ban_tin{
+	list-style-type: none;
+    font-family: Arial;
+    color: white;
+}
+
+.li_lien_he{
+	 padding-bottom: 20px;
+
+}
+
+.fa{
+	color: white;
+    padding-right: 10px;
+}
+
+.p_ban_tin{
+	font-family: Arial;
+    color: white;
+    font-weight: bold;
+}
+
+.dang_ki{
+	background: #F9A11B;
+    margin-top: 10px;
+}
